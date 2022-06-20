@@ -1,0 +1,5 @@
+// This file contains the development progress for my GIT hub application 
+1. developed the Home page 
+2. Developed the chats section
+3. Developed Last seen function
+4. Developed Last read code.
