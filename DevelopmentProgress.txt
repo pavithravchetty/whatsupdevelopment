@@ -3,3 +3,6 @@
 2. Developed the chats section
 3. Developed Last seen function
 4. Developed Last read code.
+5. Add function to remove last seen option
+6. Add function to send voice chat
+
