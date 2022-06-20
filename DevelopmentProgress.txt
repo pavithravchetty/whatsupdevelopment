@@ -4,5 +4,5 @@
 3. Developed Last seen function
 4. Developed Last read code.
 5. Add function to remove last seen option
-6. Add function to send voice chat
-
+6. Add function to send voice mail 
+7. Add function to remove person from chat 
